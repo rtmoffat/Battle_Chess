@@ -1,0 +1,1 @@
+Chess variant to demonstrate using the LiChess api
