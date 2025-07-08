@@ -8,9 +8,9 @@
 - Install libraries
 - - pip install -r requirements.txt
 - Start caddy in a bash terminal
-- - cd ui/web
+- - cd ui/web/server
 - - ./caddy.exe start
 - Run waitress in a second bash terminal
-- - cd ui
+- - cd ui/web
 - - waitress-serve app:app
 - Visit https://localhost
