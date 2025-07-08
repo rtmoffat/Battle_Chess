@@ -1,0 +1,4 @@
+localhost {
+	root * ../static
+	file_server
+}
