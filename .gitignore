@@ -3,3 +3,4 @@ venv/
 cache/
 __pycache__/
 caddy.exe
+.vscode/settings.json
